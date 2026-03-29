@@ -2,7 +2,9 @@
 
 💡 About me:
 
-  🎓 MSc in Data Science (Tilburg University)  
+  🎓 MSc in Data Science (Tilburg University) 
+  
+  🎓 Certifications: Data Engineer, Data Analyst, Big Data with PySpark, AWS Practitioner (DataCamp)
   
   📍 Based in the Netherlands
   
