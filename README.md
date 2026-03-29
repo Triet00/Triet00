@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👋 Hi, I'm Triết. I build systems that make data valuable!
+💡 About me:
+  🎓 MSc in Data Science (Tilburg University)  
+  📍 Based in the Netherlands
+  🛠️ Data Engineering: Architecting pipelines using Databricks, SQL, and Azure to move data at scale.
+  🤖 Applied AI/ML: Developing predictive models (XGBoost, CatBoost) and NLP solutions with a focus on explainability and bias detection.
+  📊 Business Intelligence: Delivering Power BI dashboards that don't just show data, but drive decisions.
+  💡 Mindset: Ownership-driven, Agile-native, and obsessed with turning complex environments into clarity.
+  
+---
 
-<!--
-**Triet00/Triet00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+**Languages:** Python, SQL, R  
+**Libraries:** pandas, NumPy, scikit-learn, Optuna, TensorFlow, Keras, spaCy, Machine Learning Models  
+**Data Engineering:** ETL pipelines, HTML parsing, Docker, Azure DevOps, AWS (Practitioner)  
+**Analytics & BI:** Power BI, Tableau  
+**Other:** Git, CI/CD basics, Feature Engineering, ML Pipelines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### 🔹 Systematic Bias Detection in AES
+Research project analyzing linguistic bias in automated essay scoring.  
+**Skills:** NLP, feature extraction, academic analysis  
+🔗 *https://github.com/Triet00/Systematic-Bias-Detection-in-AES*
+
+### 🔹 Customer Churn Analysis (Power BI)
+Business-focused dashboard analyzing churn drivers and customer segments.  
+**Skills:** DAX, data modeling, storytelling  
+🔗 *[Repo link](https://github.com/Triet00/Analysis-Visualization-Churn-Rate-Telecom)*
+
+### 🔹 Movies Analytics (EDA)
+Exploring IMDb data to understand ROI drivers in the film industry.  
+**Skills:** EDA, visualization, business insights  
+🔗 *[Repo link](https://github.com/Triet00/Movies-analytics)*
+
+### 🔹 Loan Payback Prediction (ML)
+Multiple experiments comparing ML models for loan default prediction.  
+**Skills:** modeling, evaluation, hyperparameter tuning  
+🔗 *[Repo link](https://github.com/Triet00/Loan-Payback-Prediction)*
+
+### 🔹 Rental Price Predictor
+Regression pipeline predicting rental revenue using engineered features.  
+**Skills:** regression, pipelines, metrics  
+🔗 *[Repo link](https://github.com/Triet00/Rental-price-predictor)*
+---
+
+## 📈 What I'm Working On
+- Improving ML pipeline structure (modular code, reproducibility)
+- Building more Power BI dashboards for business storytelling
+- Preparing for data engineering interviews (SQL, cloud, pipelines)
+---
