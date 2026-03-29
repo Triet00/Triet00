@@ -1,10 +1,17 @@
 ## 👋 Hi, I'm Triết. I build systems that make data valuable!
+
 💡 About me:
+
   🎓 MSc in Data Science (Tilburg University)  
+  
   📍 Based in the Netherlands
+  
   🛠️ Data Engineering: Architecting pipelines using Databricks, SQL, and Azure to move data at scale.
+  
   🤖 Applied AI/ML: Developing predictive models (XGBoost, CatBoost) and NLP solutions with a focus on explainability and bias detection.
+  
   📊 Business Intelligence: Delivering Power BI dashboards that don't just show data, but drive decisions.
+  
   💡 Mindset: Ownership-driven, Agile-native, and obsessed with turning complex environments into clarity.
   
 ---
@@ -23,7 +30,7 @@
 ### 🔹 Systematic Bias Detection in AES
 Research project analyzing linguistic bias in automated essay scoring.  
 **Skills:** NLP, feature extraction, academic analysis  
-🔗 *https://github.com/Triet00/Systematic-Bias-Detection-in-AES*
+🔗  [Repo link](https://github.com/Triet00/Systematic-Bias-Detection-in-AES)
 
 ### 🔹 Customer Churn Analysis (Power BI)
 Business-focused dashboard analyzing churn drivers and customer segments.  
