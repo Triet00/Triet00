@@ -57,5 +57,5 @@ Regression pipeline predicting rental revenue using engineered features.
 ## 📈 What I'm Working On
 - Improving ML pipeline structure (modular code, reproducibility)
 - Building more Power BI dashboards for business storytelling
-- Preparing for data engineering interviews (SQL, cloud, pipelines)
+- Improving my skills in dbt and Kubernetes
 ---
