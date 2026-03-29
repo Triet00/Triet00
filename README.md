@@ -51,6 +51,7 @@ Multiple experiments comparing ML models for loan default prediction.
 Regression pipeline predicting rental revenue using engineered features.  
 **Skills:** regression, pipelines, metrics  
 🔗 *[Repo link](https://github.com/Triet00/Rental-price-predictor)*
+
 ---
 
 ## 📈 What I'm Working On
