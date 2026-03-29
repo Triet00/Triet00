@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Triết. I build systems that make data valuable!
+## 👋 Hi, welcome to my portfolio. I'm Triết. I build systems that make data valuable!
 
 💡 About me:
 
