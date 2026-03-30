@@ -31,7 +31,7 @@
 
 ### 🔹 Systematic Bias Detection in AES (NLP, ML, SA)
 Research project analyzing linguistic bias in automated essay scoring.  
-**Skills:** NLP, feature extraction, academic analysis  
+**Skills:** NLP, feature extraction, ML pipeline, academic analysis 
 🔗  [Repo link](https://github.com/Triet00/Systematic-Bias-Detection-in-AES)
 
 ### 🔹 Customer Churn Analysis (EDA, Power BI)
@@ -41,7 +41,7 @@ Business-focused dashboard analyzing churn drivers and customer segments.
 
 ### 🔹 Movies Analytics (HTML, EDA, ML)
 Exploring IMDb data to understand ROI drivers in the film industry.  
-**Skills:** EDA, visualization, business insights  
+**Skills:** Web scraping, ETL pipeline, EDA, visualization, business insights  
 🔗 *[Repo link](https://github.com/Triet00/Movies-analytics)*
 
 ### 🔹 Loan Payback Prediction (ML)
