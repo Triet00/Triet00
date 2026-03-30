@@ -29,17 +29,17 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Systematic Bias Detection in AES
+### 🔹 Systematic Bias Detection in AES (NLP, ML, SA)
 Research project analyzing linguistic bias in automated essay scoring.  
 **Skills:** NLP, feature extraction, academic analysis  
 🔗  [Repo link](https://github.com/Triet00/Systematic-Bias-Detection-in-AES)
 
-### 🔹 Customer Churn Analysis (Power BI)
+### 🔹 Customer Churn Analysis (EDA, Power BI)
 Business-focused dashboard analyzing churn drivers and customer segments.  
 **Skills:** DAX, data modeling, storytelling  
 🔗 *[Repo link](https://github.com/Triet00/Analysis-Visualization-Churn-Rate-Telecom)*
 
-### 🔹 Movies Analytics (EDA)
+### 🔹 Movies Analytics (HTML, EDA, ML)
 Exploring IMDb data to understand ROI drivers in the film industry.  
 **Skills:** EDA, visualization, business insights  
 🔗 *[Repo link](https://github.com/Triet00/Movies-analytics)*
@@ -49,7 +49,7 @@ Multiple experiments comparing ML models for loan default prediction.
 **Skills:** modeling, evaluation, hyperparameter tuning  
 🔗 *[Repo link](https://github.com/Triet00/Loan-Payback-Prediction)*
 
-### 🔹 Rental Price Predictor
+### 🔹 Rental Price Predictor (ML)
 Regression pipeline predicting rental revenue using engineered features.  
 **Skills:** regression, pipelines, metrics  
 🔗 *[Repo link](https://github.com/Triet00/Rental-price-predictor)*
