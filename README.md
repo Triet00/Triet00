@@ -34,8 +34,13 @@ Research project analyzing linguistic bias in automated essay scoring.
 **Skills:** NLP, feature extraction, ML pipeline, academic analysis 
 🔗  [Repo link](https://github.com/Triet00/Systematic-Bias-Detection-in-AES)
 
-### 🔹 Customer Churn Analysis (EDA, Power BI)
-Business-focused dashboard analyzing churn drivers and customer segments.  
+### 🔹 Customer Churn Prediction (ML, SA)
+Multiple experiments comparing ML models for customer churn in a mobile game company.  
+**Skills:** EDA, ML, data visualization  
+🔗 *[Repo link](https://github.com/Triet00/Customer-Churn-Prediction-)*
+
+### 🔹 Customer Churn Analysis Telecom (EDA, Power BI)
+Business-focused dashboard analyzing churn drivers and customer segments in a Telecom.  
 **Skills:** DAX, data modeling, storytelling  
 🔗 *[Repo link](https://github.com/Triet00/Analysis-Visualization-Churn-Rate-Telecom)*
 
