@@ -21,7 +21,7 @@
 ## 🔧 Tech Stack
 **Languages:** Python, SQL, R  
 **Libraries:** pandas, NumPy, scikit-learn, Optuna, TensorFlow, Keras, spaCy, Machine Learning Models  
-**Data Engineering:** ETL pipelines, HTML parsing, Docker, Azure DevOps, AWS (Practitioner)  
+**Data Engineering:** ETL & ELT pipelines, dbt, airflow, HTML parsing, Docker, Azure DevOps, AWS (Practitioner)  
 **Analytics & BI:** Power BI, Tableau  
 **Other:** Git, CI/CD basics, Feature Engineering, ML Pipelines
 
