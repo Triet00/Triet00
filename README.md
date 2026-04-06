@@ -42,7 +42,8 @@ An end-to-end analytics engineering pipeline that leverages local OLAP analysis.
 🔗 *[Repo link](https://github.com/Triet00/Customer-Insights-Data-Pipeline)*
 
 ### 🔹 Customer Churn Prediction (ML, SA)
-Multiple experiments comparing ML models for customer churn in a mobile game company.  
+Multiple experiments comparing ML models for customer churn in a mobile game company.
+
 **Skills:** EDA, ML, data visualization  
 🔗 *[Repo link](https://github.com/Triet00/Customer-Churn-Prediction-)*
 
