@@ -30,9 +30,14 @@
 ## 📌 Featured Projects
 
 ### 🔹 Systematic Bias Detection in AES (NLP, ML, SA)
-Research project analyzing linguistic bias in automated essay scoring.  
-**Skills:** NLP, feature extraction, ML pipeline, academic analysis 
+Research project analyzing linguistic bias in automated essay scoring & prediction.  
+**Skills:** NLP, feature extraction, ML pipeline, academic analysis
 🔗  [Repo link](https://github.com/Triet00/Systematic-Bias-Detection-in-AES)
+
+### 🔹 Customer Insights Data Pipeline (dbt, airflow, SQL)
+An end-to-end analytics engineering pipeline that leverages local OLAP analysis.
+**Skills:** Pipeline building, data orchestration, dbt
+🔗 *[Repo link](https://github.com/Triet00/Customer-Insights-Data-Pipeline)*
 
 ### 🔹 Customer Churn Prediction (ML, SA)
 Multiple experiments comparing ML models for customer churn in a mobile game company.  
