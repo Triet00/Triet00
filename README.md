@@ -1,6 +1,6 @@
 ## 👋 Hi, welcome to my portfolio. I'm Triết. I build systems that make data valuable!
 
-💡 About me:
+💡 **About me**:
 
   🎓 MSc in Data Science (Tilburg University) 
   
@@ -20,7 +20,7 @@
 
 ## 🔧 Tech Stack
 **Languages:** Python, SQL, R  
-**Libraries:** pandas, NumPy, scikit-learn, Optuna, TensorFlow, Keras, spaCy, Machine Learning Models  
+**Data Science:** pandas, NumPy, scikit-learn, Optuna, TensorFlow, Keras, spaCy, IsANLP, Machine Learning Models, statistical analysis.  
 **Data Engineering:** ETL & ELT pipelines, dbt, airflow, HTML parsing, Docker, Azure DevOps, AWS (Practitioner)  
 **Analytics & BI:** Power BI, Tableau  
 **Other:** Git, CI/CD basics, Feature Engineering, ML Pipelines
