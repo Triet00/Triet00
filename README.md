@@ -36,6 +36,7 @@ Research project analyzing linguistic bias in automated essay scoring & predicti
 
 ### 🔹 Customer Insights Data Pipeline (dbt, airflow, SQL)
 An end-to-end analytics engineering pipeline that leverages local OLAP analysis.
+
 **Skills:** Pipeline building, data orchestration, dbt
 🔗 *[Repo link](https://github.com/Triet00/Customer-Insights-Data-Pipeline)*
 
