@@ -56,7 +56,7 @@ Business-focused dashboard analyzing churn drivers and customer segments in a Te
 ### 🔹 HR Analytics (EDA, Power BI)
 HR analysis dashboard analyzing employees information.  
 **Skills:** DAX, data modeling, storytelling  
-🔗 *[Repo link](https://github.com/Triet00/HR-Data-Analytics-Visualization))*
+🔗 *[Repo link](https://github.com/Triet00/HR-Data-Analytics-Visualization)*
 
 ### 🔹 Movies Analytics (HTML, EDA, ML)
 Exploring IMDb data to understand ROI drivers in the film industry.  
