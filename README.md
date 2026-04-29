@@ -1,3 +1,9 @@
+<div align="right">
+  <img src="https://github.com/Triet00/Triet00/blob/main/Goku%20Sprite%20Gif.gif" width="200"/>
+</div>
+
+<br><br><br>
+
 ## 👋 Hi, welcome to my portfolio. I'm Triết. I build systems that make data valuable!
 
 💡 **About me**:
