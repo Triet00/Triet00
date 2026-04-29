@@ -1,7 +1,7 @@
 ## 👋 Hi, welcome to my portfolio. I'm Triết. I build systems that make data valuable!
 
 <div align="center">
-  <img src="https://github.com/Triet00/Triet00/blob/main/Goku%20Sprite%20Gif.gif" width="200"/>
+  <img src="https://github.com/Triet00/Triet00/blob/main/3e7378ff-f584-43c0-8493-a38b6f1ee8ff.png" width="200"/>
 </div>
 
 <br><br><br>
