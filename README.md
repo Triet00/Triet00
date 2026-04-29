@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Triet00/Triet00/blob/main/3e7378ff-f584-43c0-8493-a38b6f1ee8ff.png" width="100"/>
+  <img src="https://github.com/Triet00/Triet00/blob/main/3e7378ff-f584-43c0-8493-a38b6f1ee8ff.png" width="150"/>
 </div>
 
-<br><br><br>
 ## 👋 Hi, welcome to my portfolio. I'm Triết. I build systems that make data valuable!
 
 💡 **About me**:
